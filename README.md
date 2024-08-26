@@ -18,7 +18,7 @@ The dataset contains images of tea leaves from Johnstone Boiyon farm in Koiwa lo
 8. Healthy leaves
 
 Each class contains more than 100 images. The dataset is suitable for use with transfer learning for machine learning models to predict tea leaf sickness.
-[Dataset URL : ](https://www.kaggle.com/datasets/shashwatwork/identifying-disease-in-tea-leafs)
+[Dataset URL](https://www.kaggle.com/datasets/shashwatwork/identifying-disease-in-tea-leafs)
 
 ## Model Architecture
 
@@ -38,7 +38,3 @@ The model achieved an accuracy of **X%** on the test set, indicating its effecti
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
